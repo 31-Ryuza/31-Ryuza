@@ -2,8 +2,6 @@
 
 " I am a creative person and like to find alternative solutions to various kinds of problems. I am also open to all possible solutions. Creativity really helps me to be a good leader because I can anticipate various problems. "
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=31-Ryuza&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31-Ryuza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Language
